@@ -1,12 +1,12 @@
+h1 {
+  text-align: center;
+}
+
 img {
   border-radius: 20px;
   display: block;
-}
-
-.contact-btn {
-  display: block;
-  margin: 0 auto;
-  width: 200px;
+  width: 90%;
+  margin: 20px auto;
 }
 
 .contact-btn {
